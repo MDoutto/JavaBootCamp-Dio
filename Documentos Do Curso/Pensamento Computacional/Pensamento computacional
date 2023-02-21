@@ -1,0 +1,154 @@
+PENSAMENTO COMPUTACIONAL
+
+dividir um problema complexo em subproblemas
+
+1- Decomposicao
+
+Dado um problema complexo, devemos quebra-lo em problemas menores. portanto, problemas mais faceis e gerenciaveis.
+
+Passos:
+
+Analise
+1.1 Estudar e explorar
+1.2 realizar um exame detalhado
+1.3 decompor em elementos constituentes 
+
+Sintese
+1.1 processo de reconstrucao
+1.2 fundir os elementos de maneira coerente
+1.3 consiste em reunir os elemente distintos em um unico elemento
+
+
+Ordem de execucao das tarefas menores
+
+Sequencial
+
+Provavelmente haverá uma dependencia entre as tarefas
+
+
+
+Paralelo
+Tarefas podem ser executadas concomitantemente, sendo assim cada uma de maneira independente, essa ordem tras como beneficio o ganho em eficiencia e reducao de tempo de execucao.
+
+Como decompor?
+
+Step 1: Identificar ou coletar dados;
+Step 2: Agregar os dados;
+Step 3: Funcionalidade.
+
+2- Reconhecimento de padroes
+
+
+
+3- abstracao
+Generalizacao, na logica é a operacao intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenomenos similares.
+
+4- Design de algoritmos
+
+
+
+Raciocionio Logico é uma forma de pensamento estruturado, ou raciocinio que permite encontrar a conclusao ou determinar a resolucao de um problema.
+
+Inducao: Geralmente vem de um fenomeno observado.
+deducao: apartir de leis e teorias voce deduz previsoes e explicacoes daquele fenomeno
+abducao: apartir de uma conclusao voce tira a premissa, apartir de algo observado voce deduz alguma coisa.
+
+
+O que é lógica?
+
+Organizacao e planejamento das intrucoes , assertivas em um algoritmo, a fim de viabilizar a implantacao de um programa.
+
+ 
+ TÉCNICAS DE LOGICA DE PROGRAMACAO
+
+ Tecnica linear
+
+ * Nao tem vinculo
+ 	* Estrutura hierarquica
+ 	* programacao de computadores
+
+é a execucao sequenciada dos elementos.
+
+
+Técnica estruturada
+
+Dado o processamento de dados
+
+
+1- Escrita 
+2- Entendimento
+3- Validacao
+4- Manutencao
+
+Vantagens:
+
+Abrange maior quantidade de possibilidades
+
+Tecnica modular
+
+Dados de entrada > Processo de transformacao > Dados de saída
+
+Vantagens:
+
+Simplificacao
+decompor o problema
+verificacao do modulo
+
+
+
+FUNDAMENTOS DE ALGORITMOS
+
+Qual a funcao do computador?
+
+Processar dados e informacoes.
+
+Informacoes podem ser separados em duas partes:
+
+* Dados
+* Instrucoes
+
+
+Tipos  de dados
+
+Numericos
+Caracteres
+Lógico
+
+
+O que é uma variavel?
+
+Uma variavel é um tipo de estrutura mutavel que pode variar dentro do seu valor sendo assim inconstante, sendo assim podendo ter seu dado alterado ou sobreposto.
+
+Variavel regras (Boas praticas)
+
+* Atribuicoes de um ou mais caracteres (Atribuir sentido a varivel)
+* Deve iniciar com letras e nunca com numeros 
+* Sem espacos em branco
+* Vedado
+* Utilizacao de palavras reservadas
+* Caracteres e numeros
+
+
+Papéis da varivel
+
+Acao > modificacao de estado
+Controle > Vigiada, controle
+ 
+
+Constantes
+
+Aquilo que é fixo ou estavel 
+
+* Inalteravel 
+* O que nao muda
+* Invariavel
+
+
+Instrucoes primitivas
+
+Operadores
+
++ Soma 
+- Subtracao
+/ Divisao
+* Multiplicacao

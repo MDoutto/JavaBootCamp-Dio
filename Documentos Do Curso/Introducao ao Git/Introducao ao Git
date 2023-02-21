@@ -1,0 +1,92 @@
+Introducao ao Git
+
+Beneficios de aprender o Git e o GitHub
+
+Git foi criado pelo Linux e sua equipe
+Github Foi criado pela microsoft
+
+
+1- Controle de versao
+2- Armazenamento em nuvem
+3- Trabalho em equipe
+4- Melhorar seu codigo
+5- Reconhecimento
+
+
+Navegacao basica no terminal & Instalacao
+
+Comandos:
+
+
+- Mudar de pastas
+
+- Listar as pastas
+
+- Criar pastas / Arquivos
+
+- Deletar pastas / Arquivos
+
+
+Windows						Unix
+
+Cd							cd
+dir 						Ls	
+mkdir 						mkdir
+del / rmdir					rm or rf
+
+
+
+Entendendo como funciona o Git por baixo dos panos
+
+* Sha1
+
+A singla SHA significa Secure Hash Algorithm, é um conjunto de funcoes hash criptograficas projetadas pela NSA (Agencia de segurancia nacional dos USA).
+
+Essa encriptacao gera um conjunto de caracteres identificador de 40 digitos.
+
+Objetos internos do Git
+
+3 Tipos basicos de objetos do Git
+
+* Blobs
+* Trees
+* Commits
+
+Ciclo de vida dos arquivos do Git
+
+
+Comands
+
+
+git init
+
+Cria um repositorio no Git
+
+git status
+
+Retorna algumas informcaoes 
+
+git add *
+
+Adiciona todos os arquivos da pasta para a area Staged
+
+
+git commit -m "Comentario"
+
+salva as informcaoes no servidor
+
+
+git config --list
+
+Traz as configuracoes realizadas
+
+git remote add origin https://github.com/MDoutto/EstudosGit.git
+
+Cadastra o repositorio do GitHub
+
+git push origin master
+
+Envia os arquivos para a branch master do repositorio
+
+
+
