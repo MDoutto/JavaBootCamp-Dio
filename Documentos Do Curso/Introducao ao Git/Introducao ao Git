@@ -1,21 +1,21 @@
-Introducao ao Git
+# Introducao ao Git
 
-Beneficios de aprender o Git e o GitHub
+## Beneficios de aprender o Git e o GitHub
 
 Git foi criado pelo Linux e sua equipe
 Github Foi criado pela microsoft
 
 
-1- Controle de versao
-2- Armazenamento em nuvem
-3- Trabalho em equipe
-4- Melhorar seu codigo
-5- Reconhecimento
+- Controle de versao
+- Armazenamento em nuvem
+- Trabalho em equipe
+- Melhorar seu codigo
+- Reconhecimento
 
 
-Navegacao basica no terminal & Instalacao
+### Navegacao basica no terminal & Instalacao
 
-Comandos:
+**Comandos**
 
 
 - Mudar de pastas
@@ -27,66 +27,64 @@ Comandos:
 - Deletar pastas / Arquivos
 
 
-Windows						Unix
+**Windows**						
 
-Cd							cd
-dir 						Ls	
-mkdir 						mkdir
-del / rmdir					rm or rf
+- cd
+- dir
+- mkdir
+- del / rmdir
 
+**Unix**
 
+- cd
+- ls
+- mkdir
+- rm or rf
 
-Entendendo como funciona o Git por baixo dos panos
+### Entendendo como funciona o Git por baixo dos panos
 
-* Sha1
+**Sha1**
 
 A singla SHA significa Secure Hash Algorithm, é um conjunto de funcoes hash criptograficas projetadas pela NSA (Agencia de segurancia nacional dos USA).
 
 Essa encriptacao gera um conjunto de caracteres identificador de 40 digitos.
 
-Objetos internos do Git
+### Objetos internos do Git
 
-3 Tipos basicos de objetos do Git
+**3 Tipos basicos de objetos do Git**
 
-* Blobs
-* Trees
-* Commits
+- Blobs
+- Trees
+- Commits
 
-Ciclo de vida dos arquivos do Git
+### Ciclo de vida dos arquivos do Git
 
+**Comandos**
 
-Comands
-
-
-git init
+- git init
 
 Cria um repositorio no Git
 
-git status
+- git status
 
 Retorna algumas informcaoes 
 
-git add *
+- git add *
 
 Adiciona todos os arquivos da pasta para a area Staged
 
-
-git commit -m "Comentario"
+- git commit -m "Comentario"
 
 salva as informcaoes no servidor
 
-
-git config --list
+- git config --list
 
 Traz as configuracoes realizadas
 
-git remote add origin https://github.com/MDoutto/EstudosGit.git
+- git remote add origin https://github.com/MDoutto/EstudosGit.git
 
 Cadastra o repositorio do GitHub
 
-git push origin master
+- git push origin master
 
 Envia os arquivos para a branch master do repositorio
-
-
-

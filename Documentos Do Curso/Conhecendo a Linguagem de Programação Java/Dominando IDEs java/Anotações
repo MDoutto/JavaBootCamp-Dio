@@ -1,0 +1,45 @@
+# Sobre o Java
+**Funcionamento**
+Codigo (.Java) > Bytecode (.Class) > Jvm > codigo interpretado.
+## Diferença entre Plataforma Java e Linguagem Java
+Diferença entre Plataforma Java e Linguagem Java:
+    
+**Plataforma**
+A vantagem da Plataforma é não estar presa a um unico sistema operacional ou Hardware, pois seus programas rodam atráves de uma maquina
+virtual que pode ser emulada.
+
+**Linguagem**
+A linguagem de programação Java é a linguagem convencional da plataforma Java, mas não é sua unica linguagem.
+
+### Edições
+- Java SE (Java Plataform, Standard edition)
+- Java EE (Java Plataform, Enterprise edition)
+- Java ME (Java Plataform, Micro edition)
+
+### Diferença entre Java JDK e Java JRE
+**JDK (Java Development Kit)**
+É o kit de desenvolvimento Java responsavel por compilar código-fonte (.Java) em _Bytecode_ (.Class)
+
+**JVM (Java Virtual Machine)**
+É a maquina virtual do Java responsavel por executar o _Bytecode_ (.Class)
+
+**JRE (Java Runtime Enviroment)**
+Ambiente de execução do Java que fornece as bibliotecas padrões do Java para o JDK compilar o seu codigo e para JVM executar o seu programa.
+
+### Versões
+
+A principal diferença entre o OpenJDK e o JDK Oracle:
+O OpenJDK é um Java totalmente open source com uma GNU General Public License e o JDK Oracle requer uma licença comercial sob o contrato de
+licença de código binário Oracle.
+
+### O que é uma IDE
+IDE ou ambiente de desenvolvimento integrado, é um software que combina ferramentas comuns de desenvolvimento em uma unica interface grafica do usuario (GUI), facilitando o desenvolvimento de aplicações.
+
+### Atalhos
+
+- Eclipse
+(https://www.devmedia.com.br/principais-atalhos-do-eclipse/25614)
+
+- InteliJ
+(https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html)
+

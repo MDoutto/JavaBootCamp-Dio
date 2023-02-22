@@ -1,17 +1,16 @@
-Trabalhando em Equipes Ágeis
+# Trabalhando em Equipes Ágeis
 
-Introducao a cultura agil
+## Introducao a cultura agil
 
-Agilidade X Rapidez
+**Agilidade X Rapidez**
 
 Ser agil é ter facilidade de aprendizado, logo ter uma adaptacao melhor.
 
+### Os valores do manifesto agil
 
-Os valores do manifesto agil
+- O documento foi criado em fevereiro de 2021
 
-O documento foi criado em fevereiro de 2021
-
-4 Valores do manifesto agil
+### 4 Valores do manifesto agil
 
 1- Individuos e Interacoes
 Mais que processos e ferramentas, ou seja no pensamento agil e como essencia vai valorizar muito mais a interacao entre as pessoas.
@@ -26,8 +25,7 @@ Mais do que negociacao de contratos, feedbacks constantes em conjunto com o clie
 4- Responder a mudanca 
 Mais que seguir o plano, ser adaptavel.
 
-
-Os 12 principios do manifesto
+### Os 12 principios do manifesto
 
 1- Nossa maior prioridade é satisfazer o cliente através da entrega continua e adiantada de software com valor agregador. *
 2- Aceitar mudancas de requisitos, mesmo no fim do desenvolvimento. Processos ageis se adequam a mudancas, para que o cliente possa tirar vantagens competitivas. *
@@ -44,56 +42,51 @@ Os 12 principios do manifesto
 
 * = "Mais importantes"
 
-Caracteristicas de um time agil
+### Caracteristicas de um time agil
 
-* Alinhado com o cliente e Stackholders
-* Auto-organizado e responsavel
-* Multidiciplinar
-* Entrega valor continuamente
-* Está sempre aprendendo
-* Melhoria continua
-* Possui metricas e metas claras
-* Unido
+- Alinhado com o cliente e Stackholders
+- Auto-organizado e responsavel
+- Multidiciplinar
+- Entrega valor continuamente
+- Está sempre aprendendo
+- Melhoria continua
+- Possui metricas e metas claras
+- Unido
 
+**Agilidade na tecnologia**
 
-Agilidade na tecnologia
+- Inovacao
 
-Inovacao
+## GERENCIAMENTE DE PROJETOS E GESTAO AGIL
 
+### Projeto X Processos
 
+#### Qual a diferenca entre projeto e processo
 
-GERENCIAMENTE DE PROJETOS E GESTAO AGIL
+**Processo**
 
-Projeto X ProcessoS
+- Recorrente 
+- É replicavel
+- Geralmente é repetitivo e realizado regularmente
 
-Qual a diferenca entre projeto e processo
+**Projeto**
 
-Processo:
+- É um esforco temporario para atingir um objetivo
+- O resultado é exclusivo
+- Tem inicio e fim bem resolvidos
 
-* Recorrente 
-* É replicavel
-* Geralmente é repetitivo e realizado regularmente
+### Modelo agil x Tradicional
 
-
-Projeto:
-
-* É um esforco temporario para atingir um objetivo
-* O resultado é exclusivo
-* Tem inicio e fim bem resolvidos
-
-Modelo agil x Tradicional
-
-Modelo tradicional cascata (Waterfall)
+- Modelo tradicional cascata (Waterfall)
 
 Analise > 
 			Projeto(Desgin) >
-						Implementacao >
-											Teste >
-														Entrega / Manutencao
+								Implementacao >
+													Teste >
+																Entrega / Manutencao
 
 
-
-Modelo Agil
+- Modelo Agil
 
 Planejamento por sprints
 Desenvolvimento iterativo e incremental
